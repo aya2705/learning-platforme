@@ -29,7 +29,7 @@ EduHub est une plateforme éducative qui offre aux enseignants et aux étudiants
 Pour installer et exécuter EduHub sur votre serveur local, suivez ces étapes :
 
 ```bash
-git clone  https://github.com/Hibachioua/learning-platform.git
+git clone  https://github.com/aya2705/learning-platform.git
 cd eduhub
 Utilisez un serveur local comme XAMPP
 Copiez le script mysql course_db.sql dans phpmyadmin
