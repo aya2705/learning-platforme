@@ -1,0 +1,48 @@
+# EduHub
+
+EduHub est une plateforme éducative qui offre aux enseignants et aux étudiants un espace interactif pour gérer et participer à des activités éducatives en ligne. Les enseignants peuvent ajouter des cours, communiquer avec les étudiants et gérer leurs interactions, tandis que les étudiants peuvent accéder à des cours, les organiser dans des playlists et participer activement par des commentaires.
+
+## Fonctionnalités
+
+### Pour les enseignants
+- **Ajout de cours** : Permettre aux enseignants de créer et de gérer leurs cours.
+- **Annonces** : Faciliter la communication des informations importantes aux étudiants.
+- **Gestion des étudiants** : Voir la liste des étudiants inscrits dans leurs cours.
+- **Profil** : Voir et éditer leur profil personnel.
+- **Demande de suppression de compte** : Permettre aux enseignants d'envoyer une demande de suppression de leur compte à l'administrateur.
+
+### Pour les étudiants
+- **Accès aux cours** : Visualiser des cours sur différents modules.
+- **Playlist de cours** : Sauvegarder des cours dans une playlist pour un accès rapide.
+- **Interaction** : Faire des commentaires sur les cours pour interagir avec les enseignants et d'autres étudiants.
+- **Profil** : Voir et éditer leur profil personnel.
+- **Demande de suppression de compte** : Permettre aux étudiants d'envoyer une demande de suppression de leur compte à l'administrateur.
+
+## Technologies Utilisées
+
+- **Frontend** : HTML, CSS, JavaScript
+- **Backend** : PHP
+- **Base de données** : MySQL 
+
+## Installation
+
+Pour installer et exécuter EduHub sur votre serveur local, suivez ces étapes :
+
+```bash
+git clone  https://github.com/Hibachioua/learning-platform.git
+cd eduhub
+Utilisez un serveur local comme XAMPP
+Copiez le script mysql course_db.sql dans phpmyadmin
+Consultez les comptes à utiliser pour se connecter à partir de Accountsfiles 
+Les comptes:
+Admin Account:
+Email:  chioua.hiba1@gmail.com
+Password:  admin@
+
+Student Account:
+Email:  ahmed.jaber@gmail.com
+Password:  student@
+
+Teacher Account:
+Email:  khalid@gmail.com
+Password:  teacher@
